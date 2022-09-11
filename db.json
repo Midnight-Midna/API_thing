@@ -1,0 +1,21 @@
+{
+  "balance": "0.00",
+  "logs": [
+  ],
+  "pendingRequests": [],
+  "signins": [
+    {
+      "level": 2,
+      "pass": "909104cdb5b06af2606ed4a197b07d09d5ef9a4aad97780c2fe48053bce2be52",
+      "username": "Admin"
+    },
+    {
+      "level": 3,
+      "pass": "68fd2355ca10a5c4ea757e1d56842f9a31e0a39f8ae73dc18a5de87d1f6fb928",
+      "username": "Treasurer"
+    }
+  ],
+  "tokens": [
+
+  ]
+}
